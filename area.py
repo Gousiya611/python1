@@ -1,0 +1,8 @@
+b=int(input("enter the base of triangle"))
+h=int(input("Enter the height of the triangle"))
+print(0.5*b*h,"area of triangle")
+s=int(input("enter the side of the square:"))
+print(s*s,"area of square")
+l=int(input("enter the length of the rectangle"))
+b=int(input("enter the breadth of the rectangle"))
+print(l*b,"area of the rectangle")
